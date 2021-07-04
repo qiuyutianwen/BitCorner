@@ -1,0 +1,22 @@
+.post-btn {
+  border-style: none;
+  border-radius: 2px;
+  background-color: grey;
+}
+.rainbow-m-horizontal_xx-large {
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+.rainbow-p-horizontal_xx-large {
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+.rainbow-p-vertical_large {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
